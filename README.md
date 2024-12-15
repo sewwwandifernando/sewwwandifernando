@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m Sewwandi, a Computer Systems Engineering graduate driven by a passion for crafting innovative and efficient digital solutions. With expertise in JavaScript, CSS, and HTML, I excel in utilizing frameworks like React and Node.js alongside databases like MySQL to build dynamic, full-stack applications.
+👋 Hello! I’m Sewwandi, a Computer Systems Engineering graduate driven by a passion for crafting innovative and efficient digital solutions. With expertise in JavaScript, CSS, and HTML, I excel in utilizing libraries like React and Express.js alongside databases like MySQL to build dynamic, full-stack applications.
 
 My journey as a developer revolves around blending creativity with technical excellence to deliver user-friendly interfaces and reliable backend systems. From designing scalable web applications to experimenting with cutting-edge technologies, I’m dedicated to continuously improving my skills and embracing new challenges.
 
